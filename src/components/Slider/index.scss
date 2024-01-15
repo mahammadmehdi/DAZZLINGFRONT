@@ -1,0 +1,120 @@
+.slider {
+    .swiper {
+        width: 100%;
+        height: 60vh;
+
+        .swiper-wrapper {
+            .swiper-slide {
+                .mountain {
+                    background-image: url("https://149842022.v2.pressablecdn.com/dazzling/wp-content/uploads/sites/54/2013/01/slide03.jpg");
+                    height: 60vh;
+                    width: 100%;
+                    display:flex;
+                    flex-direction: column;
+                    justify-content: center;
+                    padding-top: 7%;
+                    padding-left: 15%;
+
+
+                    .head {
+                        background-color: #1fa679b8;
+                        font-size: 24px;
+                        text-align: left;
+                        width: 441px;
+                        height: 50px;
+                        color: #ffffff;
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+                    }
+
+                    .about {
+                        background-color: #3b3b3bb7;
+                        font-size: 18px;
+                        text-align: left;
+                        width: 623px;
+                        height: 143px;
+                        color: #dddddd;
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+                        line-height: 24px;
+                        padding: 3%;
+                    }
+                }
+
+                .sea {
+                    background-image: url("https://149842022.v2.pressablecdn.com/dazzling/wp-content/uploads/sites/54/2013/01/slide02.jpg");
+                    height: 60vh;
+                    width: 100%;
+                    display:flex;
+                    flex-direction: column;
+                    justify-content: center;
+                    padding-top: 7%;
+                    padding-left: 15%;
+                    .head {
+                        background-color: #1fa679af;
+                        font-size: 24px;
+                        text-align: left;
+                        width: 441px;
+                        height: 50px;
+                        color: #ffffff;
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+                    }
+
+                    .about {
+                        background-color: #3b3b3baf;
+                        font-size: 18px;
+                        text-align: left;
+                        width: 623px;
+                        height: 143px;
+                        color: #dddddd;
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+                        line-height: 24px;
+                        padding: 3%;
+                    }
+                }
+
+                .forest {
+                    background-image: url("https://149842022.v2.pressablecdn.com/dazzling/wp-content/uploads/sites/54/2013/01/homev_updated1_02.jpg");
+                    height: 60vh;
+                    width: 100%;
+                    display:flex;
+                    flex-direction: column;
+                    justify-content: center;
+                    padding-top: 7%;
+                    padding-left: 15%;
+                    .head {
+                        background-color: #1fa679b7;
+                        font-size: 24px;
+                        text-align: left;
+                        width: 441px;
+                        height: 50px;
+                        color: #ffffff;
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+                    }
+
+                    .about {
+                        background-color: #3b3b3ba7;
+                        font-size: 18px;
+                        text-align: left;
+                        width: 623px;
+                        height: 143px;
+                        color: #dddddd;
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+                        line-height: 24px;
+                        padding: 3%;
+                    }
+                }
+            }
+        }
+    }
+}

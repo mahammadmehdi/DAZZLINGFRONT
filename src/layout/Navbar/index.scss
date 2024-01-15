@@ -1,0 +1,23 @@
+.navigation{
+    width: 100%;
+    height: 10vh;
+    display: flex;
+        align-items: center;
+        box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    .navbar{
+        display: flex;
+        
+        width: 70%;
+        margin: auto;
+        justify-content: space-between;
+        .left{
+
+        }
+        .right{
+            .pages{
+display: flex;
+gap: 20px;
+            }
+        }
+    }
+}

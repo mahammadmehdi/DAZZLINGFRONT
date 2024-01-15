@@ -1,0 +1,13 @@
+.productCards{
+    .cards{
+        .productCard{
+            .about{
+                display: flex;
+                flex-direction: column;
+                .head{
+                    display: flex;
+                }
+            }
+        }
+    }
+}
